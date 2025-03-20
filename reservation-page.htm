@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="navigation">
+      <a href="index.htm">Home</a>
+      <a href="">Our Menu</a>
+      <a href="">Contact & Directions</a>
+      <a href="reservation-page.htm">Make A Reservation</a>
+    </div>
+
+    <div class="imageContainer">
+      <img
+        src="assets/images/steak_image.jpeg"
+        alt="Steak"
+        class="reservation-hero-image"
+      />
+
+      <div class="hero-header">
+        <p>Book Your Reservation</p>
+      </div>
+    </div>
+
+    <div class="form-container">
+      <form action="form-confirmation.htm">
+        <label for="fname">First name:</label><br />
+        <input type="text" id="fname" name="fname" value="" /><br />
+        <label for="lname">Last name:</label><br />
+        <input type="text" id="lname" name="lname" value="" /><br /><br />
+        <label for="phoneNumber">Phone Number:</label><br />
+        <input type="text" id="phoneNumber" name="phoneNumber" value="" />
+        <label for="formDate">Date</label> <br />
+        <input
+          type="date"
+          id="formDate"
+          name="formDate"
+          value=""
+          min="2025-03-19"
+          max="2026-03-19"
+        />
+        <label for="formTime">Time</label> <br />
+        <input
+          type="time"
+          id="formTime"
+          name="formTime"
+          min="16:00"
+          max="21:00"
+        />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+  </body>
+</html>
