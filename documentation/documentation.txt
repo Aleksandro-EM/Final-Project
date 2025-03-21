@@ -1,0 +1,14 @@
+Day 1 - 2025-03-18:
+  - First scrum
+  - Decided on a theme for our project: Restaurant Website.
+  - Separation of tasks:
+    - Aleks will do the Reservation Page.
+    - Valére will do the Menu Page.
+    - Belinda will do the Contact & Directions page.
+    - Everyone (or whoever has the bandwith) will work on the homepage.
+  - Created GIT repo https://github.com/Aleksandro-EM/Final-Project.git
+  
+Day 2 - 2025-03-19:
+  - No scrum meeting
+  - Created branches for individual pages.
+  - First Pull request submitted (Aleks)
