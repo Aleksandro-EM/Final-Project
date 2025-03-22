@@ -4,21 +4,22 @@
   background-color: #a6794b;
   padding: 30px;
   display: flex; /*flexbox*/
-  justify-content: center; /*Center items*/
-  align-items: center; /*Center items*/
+  justify-content: center;
+  align-items: center;
 }
 
 /* Navigation Links */
 .navigation a {
-  color: white; /* Change the link color from blue to white */
+  color: white;
   text-decoration: none; /* Remove underline from navigation link */
   font-size: xx-large;
   font-weight: 800;
-  padding-left: 25px;
-  padding-right: 25px;
-  display: flex; /*flexbox*/
-  justify-content: center; /*Center items*/
-  align-items: center; /*Center items*/
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
 }
 
 /* Main Body*/
@@ -26,6 +27,7 @@ body {
   background-color: #1c1c1c;
 }
 
+/* Hero image container* */
 .imageContainer {
   display: flex;
   justify-content: center;
@@ -41,7 +43,7 @@ body {
 }
 
 /* Hero header container */
-.hero-header {
+.reservation-hero-header {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -49,13 +51,13 @@ body {
 }
 
 /* Hero Text */
-.hero-header p {
+.reservation-hero-header p {
   font-size: xxx-large;
   color: white;
   font-weight: 1000;
 }
 
-/* Style for the form container */
+/* form container */
 .form-container {
   width: 50%;
   margin: 0 auto;
@@ -65,7 +67,7 @@ body {
   box-sizing: border-box;
 }
 
-/* Style for form labels */
+/* form labels */
 .form-container label {
   font-size: 1.2rem;
   font-weight: bold;
@@ -73,7 +75,7 @@ body {
   display: block;
 }
 
-/* Style for input fields */
+/* input fields */
 .form-container input[type="text"] {
   width: 100%;
   padding: 12px;
@@ -84,7 +86,7 @@ body {
   box-sizing: border-box;
 }
 
-/* Style for date field */
+/* date field */
 .form-container input[type="date"] {
   margin-bottom: 15px;
   width: 15%;
@@ -95,7 +97,7 @@ body {
   text-align: center;
 }
 
-/* Style for time field*/
+/* time field*/
 .form-container input[type="time"] {
   margin-bottom: 15px;
   width: 15%;
@@ -106,7 +108,7 @@ body {
   text-align: center;
 }
 
-/* Style for submit button */
+/* submit button */
 .form-container input[type="submit"] {
   width: 100%;
   padding: 12px;
@@ -115,7 +117,6 @@ body {
   color: white;
   border: none;
   border-radius: 4px;
-  cursor: pointer;
   box-sizing: border-box;
 }
 
@@ -126,8 +127,6 @@ body {
   align-items: center;
   font-size: large;
   margin: 150px;
-  /*  height: 100px;
-  width: 500px; */
   background-color: #a6794b;
 }
 
@@ -164,4 +163,29 @@ body {
 .location a {
   text-decoration: none;
   color: white;
+}
+/* index Hero Image */
+.index-hero-div {
+  position: relative;
+}
+
+/* index Hero image*/
+.index-hero-div img {
+  width: 100%;
+  height: 87vh;
+  z-index: 1;
+  padding-bottom: 25px;
+}
+
+/* index Hero Text */
+.index-hero-div p {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px; /* Use a custom size in px or adjust as needed */
+  color: white;
+  font-weight: 100;
+  z-index: 2;
+  font-family: "Brush Script MT", cursive;
 }
