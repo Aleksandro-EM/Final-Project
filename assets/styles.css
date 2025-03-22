@@ -129,41 +129,6 @@ body {
   margin: 150px;
   background-color: #a6794b;
 }
-
-/* Belinda's style
-.location{
-  color: white;
-  display: flex;
-  justify-content: space-evenly;
-  margin: 0;
-  gap: 10px;
-
-}
-
-.location a {
-  text-decoration: none;
-  color: white;
-  
-
-} */
-
-.location {
-  color: white;
-  
-  gap: 10px; /* Reduces space between divs */
-  margin: 0;
-  padding: 10px; /* Adjust padding if necessary */
-}
-
-.location div {
-  margin: 5px 0; /* Reduces margin between divs */
-  padding: 5px; /* Optional: reduces inner spacing */
-}
-
-.location a {
-  text-decoration: none;
-  color: white;
-}
 /* index Hero Image */
 .index-hero-div {
   position: relative;
@@ -188,4 +153,28 @@ body {
   font-weight: 100;
   z-index: 2;
   font-family: "Brush Script MT", cursive;
+}
+
+/* Belinda's style */
+.location-container a {
+  text-decoration: none;
+  color: white;
+}
+
+.location-container {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+  gap: 70px; /* Reduces space between divs */
+  margin: 0;
+  padding: 10px; /* Adjust padding if necessary */
+}
+
+#img-container {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
 }
