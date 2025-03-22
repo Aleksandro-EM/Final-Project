@@ -11,4 +11,12 @@ Day 1 - 2025-03-18:
 Day 2 - 2025-03-19:
   - No scrum meeting
   - Created branches for individual pages.
-  - First Pull request submitted (Aleks)
+  - First Pull request submitted (by Aleks)
+
+Day 3 - 2025-03-20:
+  - No scrum meeting
+  - First pull request reviewed and approved (by Belinda)
+  - Second Pull request submitted (by Aleks)
+
+Day 4 - 2025-03-21:
+  - 

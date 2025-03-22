@@ -65,6 +65,8 @@ body {
   background-color: #f9f9f9;
   border-radius: 8px;
   box-sizing: border-box;
+  padding-bottom: 25px;
+  margin-bottom: 50px;
 }
 
 /* form labels */
@@ -154,4 +156,34 @@ body {
   font-weight: 100;
   z-index: 2;
   font-family: "Brush Script MT", cursive;
+}
+
+/* footer */
+.footer {
+  position: fixed;
+  background-color: #a6794b;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  font-size: large;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+/*Footer content */
+.footer li {
+  color: white;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Footer Links */
+.footer a {
+  text-decoration: none;
+  color: white;
 }
