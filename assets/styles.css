@@ -131,7 +131,6 @@ body {
   margin: 150px;
   background-color: #a6794b;
 }
-
 /* index Hero Image */
 .index-hero-div {
   position: relative;
@@ -157,7 +156,6 @@ body {
   z-index: 2;
   font-family: "Brush Script MT", cursive;
 }
-
 /* footer */
 .footer {
   position: fixed;
@@ -187,3 +185,4 @@ body {
   text-decoration: none;
   color: white;
 }
+
