@@ -1,0 +1,41 @@
+.body-contact {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    padding-top: 50px;
+}
+.location-container h2 {
+    display: flex;
+    justify-content: center;
+}
+.address-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 80px;
+    margin-bottom: 60px;
+}
+.opening-hours-container {
+    display: block;
+    justify-items: center;
+}
+.map-container {
+    width: 100%;
+    height: auto
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+#direction-container {
+    color: blue;
+}
+
+.direction-container {
+    margin-left: 15px;
+    margin-top: 80px;
+}
+
+.link-container {
+    text-decoration: none;
+    color: #1b0227;
+}

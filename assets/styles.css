@@ -186,27 +186,3 @@ body {
   color: white;
 }
 
-/* Belinda's style */
-.location-container a {
-  text-decoration: none;
-  color: white;
-}
-
-.location-container {
-  color: white;
-  display: flex;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-  
-  gap: 70px; /* Reduces space between divs */
-  margin: 0;
-  padding: 10px; /* Adjust padding if necessary */
-}
-
-#img-container {
-  display: block;
-  margin-left:auto;
-  margin-right: auto;
-}
-
