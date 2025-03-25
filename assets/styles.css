@@ -31,7 +31,6 @@ body {
 .imageContainer {
   display: flex;
   justify-content: center;
-  margin-top: 25px;
 }
 
 /* Hero Image */
@@ -147,10 +146,10 @@ body {
 /* index Hero Text */
 .index-hero-div p {
   position: absolute;
-  top: 25%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 70px; /* Use a custom size in px or adjust as needed */
+  font-size: 100px;
   color: white;
   font-weight: 100;
   z-index: 2;
@@ -168,7 +167,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 25px;
 }
 
 /*Footer content */
@@ -185,4 +183,3 @@ body {
   text-decoration: none;
   color: white;
 }
-
