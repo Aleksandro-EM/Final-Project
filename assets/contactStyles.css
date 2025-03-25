@@ -46,3 +46,18 @@
 .body-contact a {
   color: white;
 }
+
+/* Hero header container */
+.contact-hero-header {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  z-index: 2;
+}
+
+/* Hero Text */
+.contact-hero-header p {
+  font-size: xxx-large;
+  color: white;
+  font-weight: 1000;
+}
