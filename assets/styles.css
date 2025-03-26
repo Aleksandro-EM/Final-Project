@@ -91,15 +91,20 @@ body {
   font-size: large;
   padding: 25px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; /* Centers the content horizontally */
+  align-items: center; /* Centers the content vertically */
 }
 
-/*Footer content */
+/* Footer content */
+.footer ol {
+  display: flex; /* Makes the list items appear side by side */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+}
+
 .footer li {
   color: white;
-  align-items: center;
-  list-style-type: none;
+  list-style-type: none; /* Removes default list style */
   padding-left: 15px;
   padding-right: 15px;
 }
