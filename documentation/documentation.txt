@@ -1,3 +1,41 @@
+Explication of the work invlolved in planning and developing the Site:
+  
+  Understanding the requirements:
+    The first step was understand what the requirements are for a restaurant website. We decided to stay true to the client's needs pertaining to the main features. This included making sure that we were implementing the core features of a restaurant website which the client would deem the most important such as a menu, reservation system, contact information, and location details.
+  
+  Planning: 
+    The next step was planning. We we set all our ideas onto paper, using a diagram software to create a flow diagram of how pages would interact with each other using a navigation system we would create. We also decided on the separation of tasks, with those having more experience taking on the tougher tasks. (see Basic_diagram png image in documentation folder)
+
+  Design: 
+    The third step was coming to an agreement on design. We decided to target a high-end restaurant clientelle. This is reflected by our minimalistic design as well as our color pallete which includes a dark charcoal background with golden highlights.
+
+  Developpement:
+    With the planning done, we got to work. Using a page template, we each developped our own pages with their unique features. We decided to take some creative liberties with the website, allowing for individual talent to shine. This included integrating google maps onto the contacts page and a fully functional form with calendar and time selection.
+
+  F
+
+
+
+Overall goal and purpose of the web site:
+
+Planning steps performed:
+
+Individual Team Assignments:
+
+  - Separation of tasks:
+    - Aleks will do the Reservation Page and form confirmation page.
+    - Valére will do the Menu Page.
+    - Belinda will do the Contact & Directions page.
+    - Everyone (or whoever has the bandwith) will work on the homepage.
+
+Detailed explanation of the subject selected:
+
+  The subject we decided to select for this project was a small restaurant website. We thought this would require a broad range of techniques and subjects not necessarily covered in our class and would not only provide 
+
+Problems that arose during the development of the website:
+
+Log of your daily scrum meetings:
+
 Day 1 - 2025-03-18:
   - First scrum
   - Decided on a theme for our project: Restaurant Website.
@@ -11,12 +49,27 @@ Day 1 - 2025-03-18:
 Day 2 - 2025-03-19:
   - No scrum meeting
   - Created branches for individual pages.
-  - First Pull request submitted (by Aleks)
+  - First Pull request submitted (by Aleks) - Reservation page, confirmation page & index page.
 
 Day 3 - 2025-03-20:
   - No scrum meeting
   - First pull request reviewed and approved (by Belinda)
-  - Second Pull request submitted (by Aleks)
+  - Second Pull request submitted (by Aleks) - Navigation & Footer
 
 Day 4 - 2025-03-21:
-  - 
+  - Second Scrum meeting 
+  - Co-coding period
+  - Second pull request reviewed and approved (by Belinda)
+  - Third Pull request submitted (by Aleks) 
+
+Day 5 - 2025-03-24:
+  - Third Scrum meeting
+  - Co-coding period
+  - Third pull request reviewed and approved (by Belinda)
+  - Fourth pull request submitted (by Belinda)
+  - Fourth pull request reviewed and approved (by Aleks)
+
+Day 6 - 2025-03-24
+  -  Fifth pull request submitted (by Aleks)
+
+
