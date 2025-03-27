@@ -1,3 +1,11 @@
+Detailed explanation of the subject selected:
+
+  The subject we decided to select for this project was a high-end restaurant website. We thought this would require a broad range of techniques and subjects not necessarily covered in our class and would provide good experience for future projects. 
+  
+Overall goal and purpose of the web site:
+  
+  The overall goal of the website was to provide a business solution for restaurant owners that fit all of their needs such as a reservation system, a menu page and a contacts & directions page. We wanted to do this in the most minimalistic way possible to avoid clutter and overstimulation, which could lead potential customers away from the website.
+
 Explication of the work invlolved in planning and developing the Site:
   
   Understanding the requirements:
@@ -10,15 +18,18 @@ Explication of the work invlolved in planning and developing the Site:
     The third step was coming to an agreement on design. We decided to target a high-end restaurant clientelle. This is reflected by our minimalistic design as well as our color pallete which includes a dark charcoal background with golden highlights.
 
   Developpement:
-    With the planning done, we got to work. Using a page template, we each developped our own pages with their unique features. We decided to take some creative liberties with the website, allowing for individual talent to shine. This included integrating google maps onto the contacts page and a fully functional form with calendar and time selection.
+    With the planning done, we got to work. Using a general page template one of us created, we each developped our own pages with their unique features. We decided to take some creative liberties with the website, allowing for individual talent to shine. This included integrating google maps onto the contacts page and a fully functional form with calendar and time selection.
 
-  F
+  Final review:
+    When all of our pages were completed, we reviewed the entirety of the website to ensure that all functionality was ready for showcase. We made sure to check the validity of our code with the W3C veification tool to ensure proper coding practices were implemented.
 
-
-
-Overall goal and purpose of the web site:
 
 Planning steps performed:
+  
+  1. Finding subject : We collaborated to find a suitable project topic that would enable us to showcase our skills while delivering a quality website. 
+  2. Research: We took inspiration from other websites to identify what the most important pieces of the website were in order to impliment similar ideas.
+  3. Layout: Using a whiteboard tool (excalidraw), we created a sketch to agree on how pages would interact with eachother, and acting as a sort of sitemap. See image in documentation folder
+
 
 Individual Team Assignments:
 
@@ -28,11 +39,10 @@ Individual Team Assignments:
     - Belinda will do the Contact & Directions page.
     - Everyone (or whoever has the bandwith) will work on the homepage.
 
-Detailed explanation of the subject selected:
-
-  The subject we decided to select for this project was a small restaurant website. We thought this would require a broad range of techniques and subjects not necessarily covered in our class and would not only provide 
 
 Problems that arose during the development of the website:
+  
+  One of the biggest challenges we faced during the developpement of the website was Git. With most of us using this tool for the first time, and some of us having only used the tool in a solo-setting, we faced some difficulties with getting everyone setup and on the same page regarding commits, merges and Pull requests. We took some time in our scrum meeting where we leveraged the git documentation as well as previous class notes to remedy the situation. This not only helped those who had issues, but it also served as a refresher for those who were familiar with the tool, but lacked the knowledge to properly troubleshoot the git issues the team was facing.
 
 Log of your daily scrum meetings:
 
@@ -47,29 +57,38 @@ Day 1 - 2025-03-18:
   - Created GIT repo https://github.com/Aleksandro-EM/Final-Project.git
   
 Day 2 - 2025-03-19:
-  - No scrum meeting
   - Created branches for individual pages.
-  - First Pull request submitted (by Aleks) - Reservation page, confirmation page & index page.
+  - First Pull request submitted (by Aleks) - Reservation page, confirmation page
 
 Day 3 - 2025-03-20:
-  - No scrum meeting
   - First pull request reviewed and approved (by Belinda)
-  - Second Pull request submitted (by Aleks) - Navigation & Footer
+  - Second Pull request submitted (by Aleks) - Index page
 
 Day 4 - 2025-03-21:
   - Second Scrum meeting 
   - Co-coding period
   - Second pull request reviewed and approved (by Belinda)
-  - Third Pull request submitted (by Aleks) 
+  - Third Pull request submitted (by Aleks) - Footer & Navigation
 
 Day 5 - 2025-03-24:
   - Third Scrum meeting
   - Co-coding period
   - Third pull request reviewed and approved (by Belinda)
-  - Fourth pull request submitted (by Belinda)
+  - Fourth pull request submitted (by Belinda) - Contact page
   - Fourth pull request reviewed and approved (by Aleks)
 
 Day 6 - 2025-03-24
-  -  Fifth pull request submitted (by Aleks)
+  - Fifth pull request submitted (by Aleks) - CSS changes 
+  - Co-coding period
+  - Fifth pull request reviewed and approved (by Belinda)
+  - Sixth pull request submitted (by Aleks) - CSS refactor
+  - Sixth pull request reviewed and approved (by Belinda & Valere)
+  - Seventh pull request submitted (by Valere) - Menu page
+  - Seventh pull request reviewed and approved (by Aleks & Belinda)
+  - Eigth pull request submitted (by Valere) - Styling changes
+  - Eigth pull request reviewev and approved (by Belinda)
+  - Review and adjustments, slight CSS styling changes
 
+Day 7 -   
+  - Ninth Pull request submitted (by Belinda) - W3C validation
 
